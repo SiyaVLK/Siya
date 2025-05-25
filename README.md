@@ -1,5 +1,4 @@
-<!-- Banner Image -->
-<img src="https://your-image-link.com/banner.jpg" alt="Banner" style="width:100%; border-radius:10px;" />
+
 
 <h1 align="center">👋 Hi, I'm Siyabonga Vilakazi</h1>
 <h3 align="center">Aspiring Software Developer | Self-Taught | FNB App Academy Participant</h3>
